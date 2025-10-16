@@ -10,7 +10,7 @@ The primary goal was to prepare the Kaggle Credit Card Fraud dataset for a predi
 
 Here is a snapshot of the final, automated workflow:
 
-![Alteryx Workflow](https://github.com/Prabudh28/-Automated-Fraud-Detection-ETL-Pipeline-using-Alteryx/blob/4a2f4fd07fd1eb11e73c7d31358bc4f2a6b78fbb/The%20How.png)  <-- *REPLACE THIS WITH YOUR IMAGE FILE NAME*
+![Alteryx Workflow](https://github.com/Prabudh28/-Automated-Fraud-Detection-ETL-Pipeline-using-Alteryx/blob/4a2f4fd07fd1eb11e73c7d31358bc4f2a6b78fbb/The%20How.png)  <-- *The "How"*
 
 ### Key Workflow Steps:
 
@@ -30,11 +30,14 @@ Here is a snapshot of the final, automated workflow:
 The key outcome is a clean, feature-engineered dataset that is perfectly balanced, eliminating the primary challenge for any fraud detection model.
 
 **Before Oversampling (Imbalanced):**
+
+![Balanced Class Result](https://github.com/Prabudh28/-Automated-Fraud-Detection-ETL-Pipeline-using-Alteryx/blob/7211bb35576336a61cb604b8c938c7bdfb63fd1c/The%20Before.png) <-- *The "Before"*
+
 *Class '0': ~99.8%*
 *Class '1': ~0.17%*
 
 **After Oversampling (Balanced):**
-![Balanced Class Result](balanced_class_screenshot.png)  <-- *REPLACE THIS WITH YOUR IMAGE FILE NAME*
+![Balanced Class Result](https://github.com/Prabudh28/-Automated-Fraud-Detection-ETL-Pipeline-using-Alteryx/blob/7211bb35576336a61cb604b8c938c7bdfb63fd1c/The%20After.png)  <-- *The "After"*
 
 ## Skills Demonstrated
 
