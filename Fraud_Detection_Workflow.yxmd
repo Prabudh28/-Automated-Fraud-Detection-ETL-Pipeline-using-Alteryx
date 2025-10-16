@@ -1,0 +1,388 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="42" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>creditcard.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Time" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V1" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V2" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V3" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V4" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V5" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V6" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V7" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V8" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V9" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V10" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V11" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V12" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V13" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V14" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V15" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V16" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V17" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V18" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V19" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V20" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V21" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V22" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V23" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V24" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V25" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V26" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V27" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="V28" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="Amount" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+            <Field name="Class" size="254" source="File: D:\My_Profile\Msc_UKVI\Westminster\Minis_prjts\Alteryx_project\creditcard.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DataCleansePro.DataCleansePro">
+        <Position x="114" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RemoveNullRows value="False" />
+          <RemoveNullColumns value="False" />
+          <RemoveTabsLineBreaksAndDuplicates value="False" />
+          <RemoveLeadingAndTrailingWhitespace value="True" />
+          <RemoveAllWhitespaces value="False" />
+          <RemoveHTMLTags value="False" />
+          <RemoveInvisibleCharacters value="False" />
+          <Fields>
+            <Field value="Time" selected="True" />
+            <Field value="V1" selected="True" />
+            <Field value="V2" selected="True" />
+            <Field value="V3" selected="True" />
+            <Field value="V4" selected="True" />
+            <Field value="V5" selected="True" />
+            <Field value="V6" selected="True" />
+            <Field value="V7" selected="True" />
+            <Field value="V8" selected="True" />
+            <Field value="V9" selected="True" />
+            <Field value="V10" selected="True" />
+            <Field value="V11" selected="True" />
+            <Field value="V12" selected="True" />
+            <Field value="V13" selected="True" />
+            <Field value="V14" selected="True" />
+            <Field value="V15" selected="True" />
+            <Field value="V16" selected="True" />
+            <Field value="V17" selected="True" />
+            <Field value="V18" selected="True" />
+            <Field value="V19" selected="True" />
+            <Field value="V20" selected="True" />
+            <Field value="V21" selected="True" />
+            <Field value="V22" selected="True" />
+            <Field value="V23" selected="True" />
+            <Field value="V24" selected="True" />
+            <Field value="V25" selected="True" />
+            <Field value="V26" selected="True" />
+            <Field value="V27" selected="True" />
+            <Field value="V28" selected="True" />
+            <Field value="Amount" selected="True" />
+            <Field value="Class" selected="True" />
+            <Field value="*Unknown" selected="True" />
+          </Fields>
+          <RemoveLetters value="False" />
+          <RemoveNumbers value="False" />
+          <RemovePunctuation value="False" />
+          <Letters value="" />
+          <Numbers value="" />
+          <Punctuations value="" />
+          <Exceptions value="" />
+          <Checkbox_ReplaceStringColumns value="True" />
+          <Checkbox_ReplaceNumericColumns value="True" />
+          <radioButton_ReplaceNullwithBlanks value="True" />
+          <radioButton_ReplaceBlankswithNulls value="False" />
+          <radioButton_ReplaceNullwithZero value="True" />
+          <radioButton_ReplaceZerowithNulls value="False" />
+          <ReplaceWithBlanks value="True" />
+          <ReplaceWithZero value="True" />
+          <CheckBox_ModifyCase value="False" />
+          <ModifyCase value="none" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDataCleanse" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="222" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Time" selected="False" />
+            <SelectField field="Amount" selected="True" type="Int64" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="354" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Amount" action="Min" rename="Min_Amount" />
+            <SummarizeField field="Amount" action="Max" rename="Max_Amount" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="366" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="486" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="([Amount] - [Min_Amount]) / ([Max_Amount] - [Min_Amount])" field="Normalised_Amount" size="4" type="Float" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Normalised_Amount = ([Amount] - [Min_Amount]) / ([Max_Amount] - [Min_Amount])
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="582" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Amount" selected="False" />
+            <SelectField field="Min_Amount" selected="False" />
+            <SelectField field="Max_Amount" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="750" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\prabu\AppData\Local\Temp\Alteryx\Engine_21928_a805d35a157445f9a1f252acfe8f17f4_\Engine_21928_1bfa29a6c38e4c2a969c38bf6739c8db~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings>
+        <Position x="666" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Selected_Field">Class</Value>
+          <Value name="Oversample_Value">1</Value>
+          <Value name="Desired_Pct">50</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Oversample_Field.yxmc" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="6" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Fraud_Detection_Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="d034e89d-3e8d-4b7f-aaab-2cd2c1dd09f0" />
+      <Telemetry>
+        <PreviousWorkflowId value="90fa2907-26da-4c6e-988d-d234824b1dfd" />
+        <OriginWorkflowId value="90fa2907-26da-4c6e-988d-d234824b1dfd" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
