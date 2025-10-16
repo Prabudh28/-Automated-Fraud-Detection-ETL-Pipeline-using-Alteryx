@@ -10,7 +10,7 @@ The primary goal was to prepare the Kaggle Credit Card Fraud dataset for a predi
 
 Here is a snapshot of the final, automated workflow:
 
-![Alteryx Workflow](Fraud_Detection_Workflow.yxmd.png)  <-- *REPLACE THIS WITH YOUR IMAGE FILE NAME*
+![Alteryx Workflow](https://github.com/Prabudh28/-Automated-Fraud-Detection-ETL-Pipeline-using-Alteryx/blob/4a2f4fd07fd1eb11e73c7d31358bc4f2a6b78fbb/The%20How.png)  <-- *REPLACE THIS WITH YOUR IMAGE FILE NAME*
 
 ### Key Workflow Steps:
 
